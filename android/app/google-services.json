@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "362302727315",
+    "project_id": "emi-calculator-bcc73",
+    "storage_bucket": "emi-calculator-bcc73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362302727315:android:05b72461d6fe74a60f5966",
+        "android_client_info": {
+          "package_name": "com.example.emicalculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDGWMBHciQK0PDFOGUzZ8C7pGEDolVCVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
